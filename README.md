@@ -1,5 +1,6 @@
 # CV y Certificaciones de Caraolina Arias Reyes
 
+
 ## Introducción
 Hola Soy Carolina Arias Reyes, una estudiante de TSU en Desarrollo de Software Multiplataforma apasionada por el mundo de la programación y la tecnología. Actualmente, me encuentro cursando el 5º cuatrimestre de la carrera en la Universidad Tecnológica de Xicotepec de Juárez.
 
