@@ -1,4 +1,4 @@
-# CV y Certificaciones de Caraolina Arias Reyes
+# CV y Certificaciones de Carolina Arias Reyes
 
 
 ## Introducción
