@@ -50,7 +50,7 @@ Hola Soy Carolina Arias Reyes, una estudiante de TSU en Desarrollo de Software M
 ## Habilidades Blandas
 - Comunicación efectiva
 - Colaboración en equipos de trabajo
-- Disciplina y estricto cumplimiento de fechas
+- Creatividad
 - Disposición para ayudar y aprender de los demás
 - Conocimiento teórico en metodologías ágiles como Scrum
 
@@ -59,15 +59,15 @@ Hola Soy Carolina Arias Reyes, una estudiante de TSU en Desarrollo de Software M
 
 <table >
   <tr>
-    <td><img src="certificaciones/Acreditación CAROLINA ARIAS REYES - Excel 2019 Academic-1.png" alt="Certificado de Git" width="500"></td>
-    <td><img src="certificaciones/Acreditación CAROLINA ARIAS REYES - Power Point 2019 Academic-1.png" alt="Certificado de Programación" width="500"></td>
-    <td><img src="certificaciones/Acreditación CAROLINA ARIAS REYES - Word 2019 Academic-1.png" alt="Certificado de Estructuras de Datos" width="500"></td>
-    <td><img src="certificaciones/Certificación CAROLINA ARIAS REYES - Excel 2019 Academic-1.png" alt="Certificado de Git" width="500"></td>
-    <td><img src="certificaciones/Certificación CAROLINA ARIAS REYES - Power Point 2019 Academic-1.png" alt="Certificado de Programación" width="500"></td>
-    <td><img src="certificaciones/Certificación CAROLINA ARIAS REYES - Word 2019 Academic-1.png" alt="Certificado de Estructuras de Datos" width="500"></td>
+    <td><img src="Certificaciones/Acreditación CAROLINA ARIAS REYES - Excel 2019 Academic-1.png" alt="Certificado de Git" width="500"></td>
+    <td><img src="Certificaciones/Acreditación CAROLINA ARIAS REYES - Power Point 2019 Academic-1.png" alt="Certificado de Programación" width="500"></td>
+    <td><img src="Certificaciones/Acreditación CAROLINA ARIAS REYES - Word 2019 Academic-1.png" alt="Certificado de Estructuras de Datos" width="500"></td>
+    <td><img src="Certificaciones/Certificación CAROLINA ARIAS REYES - Excel 2019 Academic-1.png" alt="Certificado de Git" width="500"></td>
+    <td><img src="Certificaciones/Certificación CAROLINA ARIAS REYES - Power Point 2019 Academic-1.png" alt="Certificado de Programación" width="500"></td>
+    <td><img src="Certificaciones/Certificación CAROLINA ARIAS REYES - Word 2019 Academic-1.png" alt="Certificado de Estructuras de Datos" width="500"></td>
   </tr>
   <tr>
-    <td><img src="certificaciones/Reconocimientos Yamanic-Carolina-1.png" alt="Reconocimiento por mi participacion en Emprendedores y Empresarios JA México" width="500"></td>
+    <td><img src="Certificaciones/Reconocimientos Yamanic-Carolina-1.png" alt="Reconocimiento por mi participacion en Emprendedores y Empresarios JA México" width="500"></td>
   </tr>
 
 </table>
